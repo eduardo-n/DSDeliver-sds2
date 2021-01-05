@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.devsuperior.dsdeliver.dto.ProductDTO;
-import com.devsuperior.dsdeliver.entitites.Product;
+import com.devsuperior.dsdeliver.entities.Product;
 import com.devsuperior.dsdeliver.repositories.ProductRepository;
 
 @Service
